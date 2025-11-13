@@ -62,7 +62,7 @@ The insights could be used by mental health researchers, fitness planners, or an
 
 
 **Dashboard Preview**
-https://github.com/karandukare/Behavioral-Health-Physical-Activity/blob/main/Q1%20%E2%80%93%20MVPA%20Across%20Timepoints.png
+- https://github.com/karandukare/Behavioral-Health-Physical-Activity/blob/main/Q1%20%E2%80%93%20MVPA%20Across%20Timepoints.png
 
 **How to Use**
 
