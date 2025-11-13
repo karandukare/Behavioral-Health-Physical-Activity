@@ -75,7 +75,7 @@ https://github.com/karandukare/Behavioral-Health-Physical-Activity/blob/main/Q1%
 
 **Connect with Me**
 If you're interested in data analytics, Power BI, or behavioral data projects, let's connect!
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [Your GitHub Profile URL]
-- Email: [yourname@email.com ]
+- LinkedIn: https://www.linkedin.com/in/karandukare/
+- GitHub: https://github.com/karandukare
+- Email: karandukare23@gamil.com
 - Portfolio: [your portfolio link-optional]
