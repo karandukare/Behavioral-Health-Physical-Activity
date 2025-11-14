@@ -78,4 +78,4 @@ If you're interested in data analytics, Power BI, or behavioral data projects, l
 - LinkedIn: https://www.linkedin.com/in/karandukare/
 - GitHub: https://github.com/karandukare
 - Email: karandukare23@gamil.com
-- Portfolio: [your portfolio link-optional]
+- Portfolio: https://karan-dukare-data-analys-yz7rj1t.gamma.site/ 
