@@ -38,7 +38,6 @@ All these datasets stem from a simulated Behavioral Health Study containing:
 Total Records: 1,050 | Total Fields: 25+ attributes
 
 **Business Problem & Insights**
-
 **Problem:**
 
 Until today, organisations and wellness programmes have struggled to quantify behavioural engagement and understand which psychological or demographic factors drive consistency in physical activity.
